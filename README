@@ -1,0 +1,7 @@
+There are 4 Total files submitted including this ReadMe file.
+
+File #1 - Project.R - File contains a script with the step by step process displaying how data was aggregegated from a very untidy data set into a tidy data set.
+
+File #2 - tidyDataSet - This is the final data set summarizing data for the project. Data is summarized by Subject. There are 30 Rows and 68 Columns each describing summarized data for each Subject.
+
+File #3 - Codebook.MD - For Clarity displays all 68 Variables from the final tidy dataSet.
